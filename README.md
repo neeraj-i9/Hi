@@ -65,17 +65,4 @@
     <p>&copy; 2025 Pavuluri Neeraj. All rights reserved.</p>
   </footer>
 </body>
-</html>
-
-
-Your portfolio website for Pavuluri Neeraj is ready! You can now:
-
-1. Copy the code.
-
-
-2. Host it on Vercel, Netlify, or GitHub Pages — all of them offer free hosting.
-
-
-
-If you want me to walk you through deploying it, or customize it further (like adding real project links or a form), just say the word!
 
